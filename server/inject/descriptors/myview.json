@@ -10,7 +10,7 @@
     "viewissueslink": {
       "type": "action",
       "selector": "a[href='/mantisbt/view.php?id=1152']",
-      "control": "property.innerText"
+      "control": "action.link"
     }
   },
   "connect": []
