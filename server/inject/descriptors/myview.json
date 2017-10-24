@@ -16,9 +16,7 @@
   },
   "connect": [
     {
-      "match": [
-        "isMyview"
-      ],
+      "match": [],
       "action": "viewissueslink"
     }
   ]
