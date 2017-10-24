@@ -11,13 +11,18 @@
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 3,
+            "control": "property.innerText"
           },
           "summary": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selectIndex": 10,
+            "selector": "td"
           },
           "status": {
             "type": "string",
