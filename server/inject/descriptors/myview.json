@@ -9,7 +9,7 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "a[href='/mantisbt/my_view_page.php']",
+      "selector": "#buglist",
       "control": "action.link"
     }
   },
