@@ -58,6 +58,11 @@
         "type": "none"
       },
       "selectorAll": "#buglist tbody tr[bgcolor]"
+    },
+    "isViewissues": {
+      "type": "identifier",
+      "selector": "a[href='/mantisbt/view_all_bug_page.php']",
+      "control": "action.link"
     }
   },
   "connect": []
