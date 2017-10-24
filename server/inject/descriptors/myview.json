@@ -9,7 +9,7 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "body",
+      "selector": "a[href='/mantisbt/view.php?id=1152']",
       "control": "property.innerText"
     }
   },
