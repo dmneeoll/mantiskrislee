@@ -40,7 +40,7 @@
       "name": "viewissuesList",
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
-      "model": "viewissueslist"
+      "model": "myview"
     }
   ],
   "sourceAppId": "_blank",
