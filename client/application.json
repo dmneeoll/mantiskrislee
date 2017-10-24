@@ -4,5 +4,11 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "1967695c",
   "uiCommonVersion": "5.2.1",
-  "creatorId": "dmneeoll"
+  "creatorId": "dmneeoll",
+  "id": "mantiskrislee",
+  "previewImageURL": "/previews/1967695c-mantiskrislee/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/dmneeoll/mantiskrislee",
+  "creatorName": "Kris Lee",
+  "sdks": []
 }
