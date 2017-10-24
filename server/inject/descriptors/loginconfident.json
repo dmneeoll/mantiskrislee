@@ -45,6 +45,12 @@
       },
       "selector": ".button",
       "control": "action.button"
+    },
+    "islogin": {
+      "type": "identifier",
+      "selector": ".form-title",
+      "control": "property.innerText",
+      "selectContains": "login"
     }
   },
   "connect": [
