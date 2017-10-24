@@ -43,7 +43,7 @@
           "type": "string"
         }
       },
-      "selector": ".button",
+      "selector": "input [valule='login']",
       "control": "action.button"
     }
   },
