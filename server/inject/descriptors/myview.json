@@ -9,7 +9,6 @@
     },
     "viewissueslink": {
       "type": "action",
-      "selector": "#buglist",
       "control": "action.link"
     }
   },
