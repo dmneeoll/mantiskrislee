@@ -22,13 +22,17 @@
               "type": "none"
             },
             "selectIndex": 10,
-            "selector": "td"
+            "selector": "td",
+            "control": "property.innerText"
           },
           "status": {
             "type": "string",
             "update": {
               "type": "none"
-            }
+            },
+            "selector": "td",
+            "selectIndex": 8,
+            "control": "property.innerText"
           },
           "severity": {
             "type": "string",
