@@ -11,7 +11,7 @@
           "submit"
         ]
       },
-      "selector": "nane[\"username\"]",
+      "selector": "[name=\"username\"]",
       "control": "text"
     },
     "password": {
