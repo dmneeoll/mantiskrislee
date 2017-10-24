@@ -55,7 +55,8 @@
               "type": "none"
             },
             "selectIndex": 9,
-            "selector": "td"
+            "selector": "td",
+            "control": "property.innerText"
           }
         }
       },
