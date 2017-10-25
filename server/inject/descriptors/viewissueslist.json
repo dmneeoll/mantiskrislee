@@ -76,8 +76,9 @@
     },
     "reportissueslink": {
       "type": "action",
-      "selector": ".form-title",
-      "control": "property.innerText"
+      "control": "action.link",
+      "selector": "a[href='/mantisbt/bug_report_page.php']",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [
