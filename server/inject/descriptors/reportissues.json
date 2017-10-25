@@ -9,9 +9,9 @@
     },
     "isReportissues": {
       "type": "identifier",
-      "control": "exists",
-      "selector": ".form-title",
-      "selectContains": "Enter Report Details"
+      "control": "action.link",
+      "selector": "a[href='/mantisbt/bug_report_page.php']",
+      "selectContains": "Report Issue"
     }
   },
   "connect": [

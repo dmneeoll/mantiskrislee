@@ -73,6 +73,11 @@
       "control": "exists",
       "selector": ".floatleft",
       "selectContains": "Viewing Issues"
+    },
+    "reportissueslink": {
+      "type": "action",
+      "selector": ".form-title",
+      "control": "property.innerText"
     }
   },
   "connect": [
