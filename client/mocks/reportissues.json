@@ -9,6 +9,10 @@
         "label": "delete",
         "value": "2"
       }
-    ]
+    ],
+    "selected": {
+      "label": "add",
+      "value": "1"
+    }
   }
 }
