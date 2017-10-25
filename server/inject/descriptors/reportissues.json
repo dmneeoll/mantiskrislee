@@ -11,7 +11,7 @@
       "type": "identifier",
       "control": "exists",
       "selectContains": "Report Issue",
-      "selector": ".form-title"
+      "selector": ".button[value='Submit Report']"
     }
   },
   "connect": [
