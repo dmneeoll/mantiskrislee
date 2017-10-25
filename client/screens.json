@@ -30,7 +30,7 @@
     },
     {
       "id": "viewissueslist",
-      "name": "viewissuesList",
+      "name": "viewissueslist",
       "sourceScreenId": "app.tableviewadvanced.tableviewadvancedconfident",
       "sourceAppId": "universaltemplates",
       "model": "viewissueslist"
