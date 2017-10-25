@@ -66,12 +66,6 @@
         "type": "none"
       },
       "selectorAll": "#buglist tbody tr[bgcolor]"
-    },
-    "isviewissues": {
-      "type": "identifier",
-      "control": "exists",
-      "selector": ".form-title",
-      "selectContains": "Viewing Issues"
     }
   },
   "connect": [
