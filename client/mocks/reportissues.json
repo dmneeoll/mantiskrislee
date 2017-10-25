@@ -1,1 +1,14 @@
-{}
+{
+  "category": {
+    "options": [
+      {
+        "label": "add",
+        "value": "1"
+      },
+      {
+        "label": "delete",
+        "value": "2"
+      }
+    ]
+  }
+}
