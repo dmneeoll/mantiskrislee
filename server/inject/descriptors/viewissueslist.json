@@ -77,9 +77,7 @@
   },
   "connect": [
     {
-      "match": [
-        "isviewissues"
-      ],
+      "match": [],
       "screens": [
         "viewissueslist"
       ]
