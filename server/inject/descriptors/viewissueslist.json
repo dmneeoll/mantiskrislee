@@ -72,7 +72,7 @@
       "type": "identifier",
       "control": "exists",
       "selector": ".form-title",
-      "selectContains": "Viewing Issues"
+      "selectContains": "ViewingIssues"
     }
   },
   "connect": [
