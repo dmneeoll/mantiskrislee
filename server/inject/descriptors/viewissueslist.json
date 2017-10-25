@@ -67,6 +67,12 @@
       },
       "selectorAll": "#buglist tbody tr[bgcolor]",
       "comment": "issuelist"
+    },
+    "isviewissues": {
+      "type": "action",
+      "control": "action.link",
+      "selector": ".floatleft",
+      "selectContains": "Viewing Issues"
     }
   },
   "connect": [
