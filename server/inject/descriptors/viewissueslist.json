@@ -69,12 +69,5 @@
       "selectorAll": "#buglist tbody tr[bgcolor]"
     }
   },
-  "connect": [
-    {
-      "match": [],
-      "screens": [
-        "viewissueslist"
-      ]
-    }
-  ]
+  "connect": []
 }
