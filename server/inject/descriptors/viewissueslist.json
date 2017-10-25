@@ -65,7 +65,8 @@
       "update": {
         "type": "none"
       },
-      "selectorAll": "#buglist tbody tr[bgcolor]"
+      "selectorAll": "#buglist tbody tr[bgcolor]",
+      "comment": "issuelist"
     }
   },
   "connect": [
