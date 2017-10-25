@@ -61,6 +61,12 @@
       "screens": [
         "loginconfident"
       ]
+    },
+    {
+      "match": [],
+      "screens": [
+        "loginconfident"
+      ]
     }
   ]
 }
