@@ -64,8 +64,7 @@
       },
       "update": {
         "type": "none"
-      },
-      "selectorAll": "#buglist tbody tr[bgcolor]"
+      }
     }
   },
   "connect": [
