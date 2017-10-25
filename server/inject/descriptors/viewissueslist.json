@@ -69,7 +69,7 @@
       "comment": "issuelist"
     },
     "isviewissues": {
-      "type": "action",
+      "type": "identifier",
       "control": "exists",
       "selector": ".floatleft",
       "selectContains": "Viewing Issues"
