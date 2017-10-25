@@ -6,7 +6,21 @@
       "type": "select",
       "selector": "[name=\"category_id\"]",
       "control": "select"
+    },
+    "isReportissues": {
+      "type": "identifier",
+      "control": "exists",
+      "selector": ".form-title"
     }
   },
-  "connect": []
+  "connect": [
+    {
+      "match": [
+        "isReportissues"
+      ],
+      "screens": [
+        "reportissues"
+      ]
+    }
+  ]
 }
