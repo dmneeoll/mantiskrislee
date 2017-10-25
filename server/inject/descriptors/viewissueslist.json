@@ -70,7 +70,7 @@
     },
     "isviewissues": {
       "type": "action",
-      "control": "action.link",
+      "control": "exists",
       "selector": ".floatleft",
       "selectContains": "Viewing Issues"
     }
