@@ -103,5 +103,10 @@
         "type": "action"
       }
     }
+  },
+  "reportissues": {
+    "type": "object",
+    "comment": "",
+    "properties": {}
   }
 }
