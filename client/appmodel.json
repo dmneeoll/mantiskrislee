@@ -93,6 +93,9 @@
         "update": {
           "type": "none"
         }
+      },
+      "reportissueslink": {
+        "type": "action"
       }
     }
   },
